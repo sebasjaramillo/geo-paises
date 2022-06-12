@@ -1,0 +1,283 @@
+.superior{
+    width: 1320px;
+    height: 120px;
+    border-top-width: 0px;
+    border-left-width:0px;
+    border-right-width: 0px;
+    border-bottom:black;
+    border-style: groove;
+}
+.cerr{
+    border-radius: 20px;
+    background-color: rgb(255, 0, 0);
+    position: relative;
+    bottom: -340px;
+    right: -600px;
+    visibility:hidden;
+    cursor: pointer;
+}
+.cerr:hover{
+    width: 80px;
+    height: 30px;
+    object-fit: scale-down;
+}
+.container{
+    height: 800px;
+    width: 1272px;
+    overflow: hidden;
+
+}
+.contlo{
+    height: 1px;
+}
+.logo{
+    width: 80px;
+    height: 80px;
+    object-fit: scale-down;
+    position: relative;
+    right: -30px;
+    bottom: -20px;
+}
+.gelo{
+    position: relative;
+    bottom: -18px;
+    right: -130px;
+}
+.textolo{
+    width: auto;
+    height: 2px;
+    object-fit: scale-down;
+    font-family: 'Lobster Two',cursive;
+    font-size: bolder;
+}
+.facelo{
+    width: 50px;
+    height: 50px;
+    object-fit: scale-down;
+    position: relative;
+    right: -1px;
+    cursor: pointer;
+}
+.facelo:hover{
+    width: 60px;
+    height: 60px;
+    object-fit: scale-down;
+}
+.flo{
+    width: 55px;
+    height: 50px;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    position: relative;
+    right: -990px;
+    bottom: 15px;
+}
+.tlo{
+    width: 55px;
+    height: 50px;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    position: relative;
+    right: -1060px;
+    bottom: 65px;
+}
+.ilo{
+    width: 55px;
+    height: 50px;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    position: relative;
+    right: -1130px;
+    bottom: 115px;
+}
+.plo{
+    width: 55px;
+    height: 50px;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    position: relative;
+    right: -1200px;
+    bottom: 165px;
+}
+.imagenes{
+    cursor: pointer;
+    box-shadow: 1px 1px 10px gray;
+    position: relative;
+    bottom: -50px;
+}
+#af{
+    width: 200px;
+    height: 270px;
+    object-fit: scale-down;
+    position: relative;
+    right: -170px;
+    transform: rotate(-7deg);
+}
+#af:hover{
+    width: 260px;
+    height: 300px;
+    object-fit: scale-down;
+    transform: rotate(0);
+    position: relative;
+    bottom: -50px;
+    object-fit: scale-down;
+    transition: 0500ms;
+}
+#as{
+    width: 200px;
+    height: 230px;
+    object-fit: scale-down;
+    position: relative;
+    right: -365px;
+    bottom: 200px;
+    transform: rotate(7deg);
+}
+#as:hover{
+    width: 260px;
+    height: 300px;
+    object-fit: scale-down;
+    transform: rotate(0);
+    position: relative;
+    bottom: 200px;
+    transition: 0500ms;
+}
+#eu{
+    width: 210px;
+    height: 240px;
+    object-fit: scale-down;
+    position: relative;
+    right: -520px;
+    bottom: 450px;
+    transform: rotate(-3deg);
+
+}
+#eu:hover{
+    width: 260px;
+    height: 300px;
+    object-fit: scale-down;
+    transform: rotate(0);
+    position: relative;
+    bottom: 460px;
+    transition: 0500ms;
+}
+#oc{
+    width: 210px;
+    height: 250px;
+    object-fit: scale-down;
+    position: relative;
+    right: -716px;
+    bottom: 680px;
+    transform: rotate(6deg);
+}
+#oc:hover{
+    width: 260px;
+    height: 300px;
+    object-fit: scale-down;
+    transform: rotate(0);
+    position: relative;
+    bottom: 700px;
+    transition: 0500ms;
+}
+#am{
+    width: 210px;
+    height: 260px;
+    object-fit: scale-down;
+    position: relative;
+    right: -910px;
+    bottom: 960px;
+    transform: rotate(-7deg);
+}
+#am:hover{
+    width: 260px;
+    height: 300px;
+    object-fit: scale-down;
+    transform: rotate(0);
+    position: relative;
+    bottom: 950px;
+    transition: 0500ms;
+}
+.hola{
+    cursor: pointer;
+}
+.box{
+    visibility:visible;
+}
+#card{
+    background-color: #fff;
+    text-align: center;
+    border-radius: 20px;
+    overflow:hidden;
+    box-shadow: 2px 2px 7px gray;
+    
+}
+.auno{
+    visibility: hidden;
+    position: relative;
+    bottom: 904px;
+    right: -100px;
+}
+.ados{
+    visibility: hidden;
+    height: 280px;
+    position: relative;
+    bottom: 1170px;
+    right: -500px;
+}
+.atres{
+    visibility: hidden;
+    height: 290px;
+    position: relative;
+    bottom: 1460px;
+    right: -900px;
+}
+.asuno{
+    position: relative;
+    bottom: 1700px;
+    right: -100px;
+}
+.asdos{
+    height: 280px;
+    position: relative;
+    bottom: 1975px;
+    right: -500px;
+}
+.astres{
+    height: 290px;
+    position: relative;
+    bottom: 2267px;
+    right: -900px;
+}
+.btn1{
+    width: 110px;
+    height: 10px;
+    border-radius: 50px;
+    padding:10px 30px;
+    border: none;
+    background-color: rgba(0, 203, 196, 0.83);
+    color: #fff;
+    font-family:'skranji' ,cursive;
+    font-size: medium;
+    font-weight: bolder;
+    cursor: pointer;
+    overflow: hidden;
+    position: relative;
+    right:-10px;
+
+}
+.txt{
+    width: 50px;
+    position: relative;
+    bottom: 30px;
+}
+.tit{
+    position: relative;
+    right: -10px;
+}
+.img{
+    width: 18rem;
+    object-fit: scale-down;
+}
